@@ -1,4 +1,4 @@
-# Updating your system and installing and using applications
+# Updating your Windows system and installing applications
 
 WSL2 is compatible with the Home, Pro, or Server editions of Windows but not
 Windows' 10 S (although you can often upgrade to the Home edition for free).
