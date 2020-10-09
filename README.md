@@ -129,6 +129,6 @@ remainder of the environment setup.
 
 ### Check Your Work
 
-If you can open the "Ubuntu" application using the "Start" menu, do not
-type anything into the window, and continue below. Otherwise, reach out to your
-teaching team for next steps.
+If you can open the "Ubuntu" application using the "Start" menu, do not type
+anything into the window, and continue to the next lesson, "Setting up WSL 2".
+Otherwise, reach out to your teaching team for next steps.
