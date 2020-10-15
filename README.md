@@ -22,6 +22,8 @@ tools that you will need to complete the program.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RbmtGFuqmtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If your "Edition", "Version" and "OS build" meet the requirements listed above,
 skip the next step and continue below. Otherwise, continue with the next step to
 update to the latest version of Windows 10.
@@ -41,6 +43,8 @@ operating system.
 4. Progress through the computer update
 
 ### Check Your Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V75EW-jG6QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you can successfully update to the latest version of Windows 10,
 continue below. Otherwise, reach out to your instructor for next steps.
@@ -64,6 +68,8 @@ the programs needed during the environment setup.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCYoUBlDK8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If your free space for your "C:" drive is greater than 1 GB, continue below.
 Otherwise, use the [Disk Cleanup utility][] to free more space on your computer.
 
@@ -84,6 +90,8 @@ it for access to your account and for development in the browser.
 [Google Chrome webpage]: https://www.google.com/chrome
 
 ## Check Your Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nRpgVG8L6tg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you can open the "Google Chrome" application using the "Start" menu,
 continue below.
@@ -108,6 +116,8 @@ steps below to get both set up.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1gPuktOEc0A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you can open the "Visual Studio Code" application using the "Start"
 menu, continue below.
 
@@ -128,6 +138,8 @@ remainder of the environment setup.
 4. Open the "Ubuntu" application
 
 ### Check Your Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rfZb5l6GBKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you can open the "Ubuntu" application using the "Start" menu, do not type
 anything into the window, and continue to the next lesson, **Setting up WSL2**.
