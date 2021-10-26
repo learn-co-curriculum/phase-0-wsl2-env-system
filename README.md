@@ -77,10 +77,10 @@ Otherwise, use the [Disk Cleanup utility][] to free more space on your computer.
 
 ## Install Google Chrome
 
-Google Chrome is the browser that we will use for your Flatiron School Student
-Portal account and also for front-end web development. You are not required to
-use Google Chrome for personal work, but we highly encourage you to download
-it for access to your account and for development in the browser.
+Google Chrome is the browser that we recommend you use for your Flatiron School
+Student Portal account and also for front-end web development. You are not required
+to use Google Chrome for personal work, but we highly encourage you to download it
+for access to your account and for development in the browser.
 
 ## Action Item: Download and Install Google Chrome
 
@@ -119,6 +119,6 @@ steps below to get both set up.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o7E2ZWhoJsI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you can open the "Visual Studio Code" application using the "Start" menu, to
-the next lesson, **Setting up WSL2**. Otherwise, reach out to your teaching team
-for assistance.
+If you can open the "Visual Studio Code" application using the "Start" menu,
+continue to the next lesson, **Setting up WSL2**. Otherwise, reach out to
+your teaching team for assistance.
